@@ -1,0 +1,15 @@
+.calculator__keys {
+    display: grid;
+  justify-content: left;
+  grid-template-columns: 80px 80px 80px 80px;
+  grid-template-rows: 80px 80px;
+  grid-template-areas: 
+  "header header header header" 
+  "main main main main" 
+  "main main main main" 
+  "main main main main" 
+  "main main main main" 
+  "main main main main";
+
+  
+}
